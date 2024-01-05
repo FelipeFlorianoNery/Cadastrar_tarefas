@@ -62,7 +62,7 @@ void ListarConcluidas(){
 		}
 	}
 	if(qtdconcluida == 0){
-		printf("Nenhuma tarefa concluï¿½da encontrada!\n");
+		printf("Nenhuma tarefa concluída encontrada!\n");
 		printf("====================================\n");
 	}
 }
